@@ -1,6 +1,5 @@
 <a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats-red-three-79.vercel.app
-/api/top-langs/?username=Sagiri-kawaii01&layout=compact" />
+  <img align="center" src="https://github-readme-stats-red-three-79.vercel.app/api/top-langs/?username=Sagiri-kawaii01&layout=compact" />
 </a>
   
 <a href="https://github.com/anuraghazra/github-readme-stats">
